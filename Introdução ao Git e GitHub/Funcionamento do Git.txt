@@ -1,0 +1,24 @@
+# Como o Git Funciona?
+
+<ul>
+
+<li> SHA1 - 'Secure Hash Algorithm' encriptação de 40 dígitos, identifica os algoritmos
+
+<li> Objetos Fundamentais </li>
+
+<li> É um sistema distribuído </li>
+
+<li> Seguro </li>
+
+</ul>
+
+### Objetos do Git
+
+<ul>
+
+<li>Blobs -> echo arquivo SHA1</li>
+
+<li>Trees -> nome do arquivo, estrutura que retém informação </li>
+
+</ul>
+
